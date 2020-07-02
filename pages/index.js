@@ -23,7 +23,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          I am slowly falling in love with{" "}
+          I am now falling in love with{" "}
           <a href="https://nextjs.org/">Next.js.</a>
         </p>
         <p>
